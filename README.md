@@ -31,14 +31,6 @@ You do **not** need other scripts or notebooks—everything runs inside that one
 
 ---
 
-## Who this is for
-
-- **Students** learning Random Forest and classification metrics on tabular data.
-- **Practitioners** who want a **reproducible template** (same split, saved figures, clear sections).
-- **Reviewers** who need to see **end-to-end** code and narrative in one place.
-
----
-
 ## Files in this folder (self-explanation)
 
 | File | Purpose |
